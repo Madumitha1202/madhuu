@@ -78,3 +78,4 @@ For GitHub Pages, if deploying under a repository subpath, configure Vite's `bas
 - Do not use a personal/reused password in this local practice project.
 - After replacing files, run `npm install` again so bcryptjs and jsonwebtoken are installed.
 "# madhuu" 
+"# web-madhuu" 
