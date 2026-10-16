@@ -1,0 +1,314 @@
+{
+  "movies": [
+    {
+      "id": "101",
+      "title": "Leo",
+      "genre": "Action",
+      "language": "Tamil",
+      "rating": 7.2,
+      "duration": "2h 44m",
+      "price": 180,
+      "cast": "Vijay, Trisha",
+      "description": "A quiet cafe owner is drawn into a dangerous situation from his past.",
+      "image": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+    },
+    {
+      "id": "102",
+      "title": "Vikram",
+      "genre": "Action",
+      "language": "Tamil",
+      "rating": 8.3,
+      "duration": "2h 54m",
+      "price": 200,
+      "cast": "Kamal Haasan, Vijay Sethupathi",
+      "description": "A special investigation uncovers a larger criminal network.",
+      "image": "https://image.tmdb.org/t/p/w500/5ik4ATGh0doiuf0f3oNiNUjY8B.jpg"
+    },
+    {
+      "id": "103",
+      "title": "Interstellar",
+      "genre": "Sci-Fi",
+      "language": "English",
+      "rating": 8.7,
+      "duration": "2h 49m",
+      "price": 220,
+      "cast": "Matthew McConaughey, Anne Hathaway",
+      "description": "Explorers travel beyond Earth in search of a future for humanity.",
+      "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    },
+    {
+      "id": "104",
+      "title": "Avatar",
+      "genre": "Fantasy",
+      "language": "English",
+      "rating": 7.9,
+      "duration": "2h 42m",
+      "price": 250,
+      "cast": "Sam Worthington, Zoe Saldana",
+      "description": "A former marine discovers a world and people unlike his own.",
+      "image": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg"
+    },
+    {
+      "id": "105",
+      "title": "Jailer",
+      "genre": "Action",
+      "language": "Tamil",
+      "rating": 7.1,
+      "duration": "2h 48m",
+      "price": 190,
+      "cast": "Rajinikanth, Ramya Krishnan",
+      "description": "A retired jailer is pulled into a dangerous mission involving his family.",
+      "image": "https://image.tmdb.org/t/p/w500/7I6VUdPj6tQECNHdviJkUHD2u89.jpg"
+    },
+    {
+      "id": "106",
+      "title": "Ponniyin Selvan: I",
+      "genre": "Drama",
+      "language": "Tamil",
+      "rating": 7.6,
+      "duration": "2h 47m",
+      "price": 210,
+      "cast": "Vikram, Aishwarya Rai Bachchan",
+      "description": "A historical epic of kingdoms, secrets and political intrigue.",
+      "image": "https://image.tmdb.org/t/p/w500/4X4Vj6s8J7bJYfJ3v4zFQ2m7Z8v.jpg"
+    },
+    {
+      "id": "107",
+      "title": "Jawan",
+      "genre": "Action",
+      "language": "Hindi",
+      "rating": 7,
+      "duration": "2h 49m",
+      "price": 200,
+      "cast": "Shah Rukh Khan, Nayanthara",
+      "description": "A vigilante takes on a series of challenges while exposing corruption.",
+      "image": "https://image.tmdb.org/t/p/w500/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg"
+    },
+    {
+      "id": "108",
+      "title": "Dune: Part Two",
+      "genre": "Sci-Fi",
+      "language": "English",
+      "rating": 8.5,
+      "duration": "2h 46m",
+      "price": 260,
+      "cast": "Timothée Chalamet, Zendaya",
+      "description": "Paul Atreides joins the Fremen on a journey of destiny and survival.",
+      "image": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+      "id": "109",
+      "title": "Inside Out 2",
+      "genre": "Animation",
+      "language": "English",
+      "rating": 7.6,
+      "duration": "1h 36m",
+      "price": 180,
+      "cast": "Amy Poehler, Maya Hawke",
+      "description": "New emotions arrive as Riley navigates a new stage of life.",
+      "image": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+    },
+    {
+      "id": "110",
+      "title": "The Batman",
+      "genre": "Action",
+      "language": "English",
+      "rating": 7.8,
+      "duration": "2h 56m",
+      "price": 230,
+      "cast": "Robert Pattinson, Zoë Kravitz",
+      "description": "A young detective follows a trail of clues across Gotham City.",
+      "image": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+      "id": "111",
+      "title": "Spider-Man: No Way Home",
+      "genre": "Adventure",
+      "language": "English",
+      "rating": 8.2,
+      "duration": "2h 28m",
+      "price": 240,
+      "cast": "Tom Holland, Zendaya",
+      "description": "Peter Parker faces unexpected consequences after a spell goes wrong.",
+      "image": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+      "id": "112",
+      "title": "The Super Mario Bros. Movie",
+      "genre": "Animation",
+      "language": "English",
+      "rating": 7,
+      "duration": "1h 32m",
+      "price": 170,
+      "cast": "Chris Pratt, Anya Taylor-Joy",
+      "description": "Two brothers travel through a colourful fantasy world.",
+      "image": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
+    },
+    {
+      "id": "113",
+      "title": "Good Night",
+      "genre": "Drama",
+      "language": "Tamil",
+      "rating": 7.8,
+      "duration": "2h 25m",
+      "price": 160,
+      "cast": "Manikandan, Meetha Raghunath",
+      "description": "A warm Tamil family drama about relationships and everyday life.",
+      "image": "https://image.tmdb.org/t/p/w500/9X9x7G5u4M6z5w5J7r5w1p8v8x1.jpg"
+    },
+    {
+      "id": "114",
+      "title": "The Martian",
+      "genre": "Sci-Fi",
+      "language": "English",
+      "rating": 8,
+      "duration": "2h 24m",
+      "price": 220,
+      "cast": "Matt Damon, Jessica Chastain",
+      "description": "An astronaut uses science and ingenuity to survive on Mars.",
+      "image": "https://image.tmdb.org/t/p/w500/5aGhaIHYuQbqlHWvWYqMCnj40y2.jpg"
+    },
+    {
+      "id": "115",
+      "title": "Frozen II",
+      "genre": "Fantasy",
+      "language": "English",
+      "rating": 6.8,
+      "duration": "1h 43m",
+      "price": 180,
+      "cast": "Idina Menzel, Kristen Bell",
+      "description": "Anna and Elsa journey into an enchanted forest to uncover the past.",
+      "image": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg"
+    },
+    {
+      "id": "116",
+      "title": "Maaveeran",
+      "genre": "Action",
+      "language": "Tamil",
+      "rating": 7.3,
+      "duration": "2h 46m",
+      "price": 190,
+      "cast": "Sivakarthikeyan, Aditi Shankar",
+      "description": "A cartoonist discovers a surprising voice that changes his life.",
+      "image": "https://image.tmdb.org/t/p/w500/8XjZ4k8J6w5Z5s7Q5M5v4X5t2x1.jpg"
+    }
+  ],
+  "theatres": [
+    {
+      "id": "1",
+      "name": "PVR Cinemas",
+      "location": "Chennai",
+      "shows": [
+        "10:00 AM",
+        "1:30 PM",
+        "6:00 PM"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "INOX",
+      "location": "Chennai",
+      "shows": [
+        "11:00 AM",
+        "3:00 PM",
+        "7:30 PM"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Cinepolis",
+      "location": "Chennai",
+      "shows": [
+        "9:30 AM",
+        "2:00 PM",
+        "8:00 PM"
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "movieId": "103",
+      "movieTitle": "Interstellar",
+      "theatre": "PVR Cinemas",
+      "show": "1:30 PM",
+      "seats": [
+        "D1",
+        "D2"
+      ],
+      "customer": {
+        "name": "Madhu Kalaiarasan",
+        "email": "madhukalai1202@gmail.com",
+        "phone": "6369441041"
+      },
+      "total": 470,
+      "status": "Cancelled",
+      "payment": {
+        "id": "PAY-AD97EAB108",
+        "method": "UPI · madhu@okaxis",
+        "amount": 470,
+        "status": "Refund initiated",
+        "paidAt": "2026-10-15T15:00:06.362Z"
+      },
+      "username": "madhu123",
+      "userId": "5498b7a2-8b79-43d0-bca5-8026ae85a47a",
+      "createdAt": "2026-10-15T15:00:06.371Z",
+      "id": 1
+    },
+    {
+      "movieId": "103",
+      "movieTitle": "Interstellar",
+      "theatre": "INOX",
+      "show": "11:00 AM",
+      "seats": [
+        "D1",
+        "D2"
+      ],
+      "customer": {
+        "name": "Madhu Kalaiarasan",
+        "email": "madhukalai1202@gmail.com",
+        "phone": "1234567786"
+      },
+      "total": 470,
+      "status": "Confirmed",
+      "payment": {
+        "id": "PAY-02FC447A1C",
+        "method": "UPI · hello@okaxis",
+        "amount": 470,
+        "status": "Paid",
+        "paidAt": "2026-10-15T15:08:31.279Z"
+      },
+      "username": "madhu123",
+      "userId": "5498b7a2-8b79-43d0-bca5-8026ae85a47a",
+      "createdAt": "2026-10-15T15:08:31.287Z",
+      "id": 3
+    },
+    {
+      "movieId": "103",
+      "movieTitle": "Interstellar",
+      "theatre": "PVR Cinemas",
+      "show": "1:30 PM",
+      "seats": [
+        "D1",
+        "D2"
+      ],
+      "customer": {
+        "name": "Madhu Kalaiarasan",
+        "email": "madhukalai1202@gmail.com",
+        "phone": "1234567877"
+      },
+      "total": 470,
+      "status": "Confirmed",
+      "payment": {
+        "id": "PAY-FE8FAA4C3A",
+        "method": "UPI · dhiga@okaxis",
+        "amount": 470,
+        "status": "Paid",
+        "paidAt": "2026-10-15T15:20:38.899Z"
+      },
+      "username": "madhu123",
+      "userId": "5498b7a2-8b79-43d0-bca5-8026ae85a47a",
+      "createdAt": "2026-10-15T15:20:38.908Z",
+      "id": 4
+    }
+  ]
+}
